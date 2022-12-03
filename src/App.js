@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Lab 10 Part C
+          Hello
         </a>
       </header>
     </div>
